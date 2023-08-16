@@ -7,4 +7,6 @@
 **MKDIR**  - *(Make Directory)* Criar um diretório (pasta)
 **RM** - *(Remove)* remover arquivo
 **RM -R**  - remover diretório
-
+**TOUCH** - Criar um arquivo e.g touch nome.extensão
+**CTRL+L** - "Limpa", acesso 'ir para cima'
+**CLEAR** - "Limpa" sem acesso
