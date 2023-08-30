@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth; /* comportamento-da-rolagem: suave */
+}
+header {
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+article {
+    white-space:pre-line ;
+}
